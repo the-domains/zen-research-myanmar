@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Zen Research Myanmar]]></title>
         <description><![CDATA[Zen Research Myanmar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zen-research-myanmar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 14:40:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 14:41:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zen-research-myanmar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a8a97b-0824-4ed0-a4fe-d535f61431c7.jpg">]]></description>
-            <link>undefined9a6d0181-fef0-441c-87a1-b6214c6691a6/index.html</link>
+            <link>https://thegrid.ai/zen-research-myanmar/9a6d0181-fef0-441c-87a1-b6214c6691a6/index.html</link>
             <guid isPermaLink="false">9a6d0181-fef0-441c-87a1-b6214c6691a6</guid>
             <pubDate>Fri, 12 Feb 2016 14:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed4fdd0e-225b-4aec-8fc4-9e8f9db7ce51.jpg">]]></description>
+            <link>https://thegrid.ai/zen-research-myanmar/7f7e3547-96a7-4c8b-b9ca-ec33af44f30a/index.html</link>
+            <guid isPermaLink="false">7f7e3547-96a7-4c8b-b9ca-ec33af44f30a</guid>
+            <pubDate>Fri, 12 Feb 2016 14:40:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
