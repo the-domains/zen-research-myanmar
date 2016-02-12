@@ -1,0 +1,28 @@
+name: Zen Research Myanmar
+favicon: null
+layout_spectrum: 0.8983720478136092
+typography_spectrum: 0.02721418277360499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3934307089075446
+  lightness: 0.9229874501470476
+  saturation: 0.6068746489472687
+  rhythmicContrast: 0.6396029682364315
+purpose: []
